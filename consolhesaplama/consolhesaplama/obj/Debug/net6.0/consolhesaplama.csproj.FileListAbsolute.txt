@@ -1,0 +1,15 @@
+C:\Users\amadeusa\Desktop\My Works\C# Works\consolhesaplama\consolhesaplama\bin\Debug\net6.0\consolhesaplama.exe
+C:\Users\amadeusa\Desktop\My Works\C# Works\consolhesaplama\consolhesaplama\bin\Debug\net6.0\consolhesaplama.deps.json
+C:\Users\amadeusa\Desktop\My Works\C# Works\consolhesaplama\consolhesaplama\bin\Debug\net6.0\consolhesaplama.runtimeconfig.json
+C:\Users\amadeusa\Desktop\My Works\C# Works\consolhesaplama\consolhesaplama\bin\Debug\net6.0\consolhesaplama.dll
+C:\Users\amadeusa\Desktop\My Works\C# Works\consolhesaplama\consolhesaplama\bin\Debug\net6.0\consolhesaplama.pdb
+C:\Users\amadeusa\Desktop\My Works\C# Works\consolhesaplama\consolhesaplama\obj\Debug\net6.0\consolhesaplama.csproj.AssemblyReference.cache
+C:\Users\amadeusa\Desktop\My Works\C# Works\consolhesaplama\consolhesaplama\obj\Debug\net6.0\consolhesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amadeusa\Desktop\My Works\C# Works\consolhesaplama\consolhesaplama\obj\Debug\net6.0\consolhesaplama.AssemblyInfoInputs.cache
+C:\Users\amadeusa\Desktop\My Works\C# Works\consolhesaplama\consolhesaplama\obj\Debug\net6.0\consolhesaplama.AssemblyInfo.cs
+C:\Users\amadeusa\Desktop\My Works\C# Works\consolhesaplama\consolhesaplama\obj\Debug\net6.0\consolhesaplama.csproj.CoreCompileInputs.cache
+C:\Users\amadeusa\Desktop\My Works\C# Works\consolhesaplama\consolhesaplama\obj\Debug\net6.0\consolhesaplama.dll
+C:\Users\amadeusa\Desktop\My Works\C# Works\consolhesaplama\consolhesaplama\obj\Debug\net6.0\refint\consolhesaplama.dll
+C:\Users\amadeusa\Desktop\My Works\C# Works\consolhesaplama\consolhesaplama\obj\Debug\net6.0\consolhesaplama.pdb
+C:\Users\amadeusa\Desktop\My Works\C# Works\consolhesaplama\consolhesaplama\obj\Debug\net6.0\consolhesaplama.genruntimeconfig.cache
+C:\Users\amadeusa\Desktop\My Works\C# Works\consolhesaplama\consolhesaplama\obj\Debug\net6.0\ref\consolhesaplama.dll
